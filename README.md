@@ -1,16 +1,29 @@
-## Hi there 👋
+# Oii! Eu sou a Maria Clara #
 
-<!--
-**mab3r/mab3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👩‍💻 Hoje trabalho com Python voltado para análise de dados e automação  
+- 🌱 Estudando mais sobre tratamento de dados, visualização e conceitos de IA  
+- 📬 Contate-me no email: [mariaclara.bernard@outlook.com](mailto:mariaclara.bernard@outlook.com)  
+- 😊 Pronomes: ela/dela
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div style="display: inline_block">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Power BI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
+</div>
+
+</div>
+
+##
+
+<div>
+  <a href="mailto:mariaclara.bernard@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/mariaclara.bernard/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  
+ 
+</div>
